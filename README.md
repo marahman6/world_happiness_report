@@ -34,3 +34,12 @@ The dataset used in this project is available in the data folder. The data folde
 * Freedom to make life choices
 * Generosity
 * Perceptions of corruption
+
+### Analysis
+
+The EDA includes the following analysis:
+
+* Comparison of the happiness scores of different countries over time
+* Relationship between happiness score and GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption
+* Comparison of the rankings of different countries over time
+* Comparison of different regions based on happiness score
