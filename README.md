@@ -23,7 +23,7 @@ These libraries can be installed using pip.
 
 ### Dataset
 
-The dataset used in this project is available in the data folder. The data folder contains CSV files for each year from 2018 to 2021. The CSV files contain the following columns:
+The dataset used in this project is available in the Data folder. The data folder contains CSV files for each year from 2018 to 2021. The CSV files contain the following columns:
 
 * Country name
 * Year
